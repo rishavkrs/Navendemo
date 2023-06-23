@@ -1,0 +1,6 @@
+projectKey=com.acc.lkm:Demo2
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/com.acc.lkm:Demo2
+ceTaskId=AYjndJTxi7vif-5K2U5i
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYjndJTxi7vif-5K2U5i
